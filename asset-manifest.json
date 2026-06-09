@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vigneshsethupathi/svs-house/static/css/main.7792c007.css",
+    "main.js": "/Vigneshsethupathi/svs-house/static/js/main.9f3129e4.js",
+    "index.html": "/Vigneshsethupathi/svs-house/index.html",
+    "main.7792c007.css.map": "/Vigneshsethupathi/svs-house/static/css/main.7792c007.css.map",
+    "main.9f3129e4.js.map": "/Vigneshsethupathi/svs-house/static/js/main.9f3129e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7792c007.css",
+    "static/js/main.9f3129e4.js"
+  ]
+}
