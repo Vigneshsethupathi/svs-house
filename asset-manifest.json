@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Vigneshsethupathi/svs-house/static/css/main.7792c007.css",
-    "main.js": "/Vigneshsethupathi/svs-house/static/js/main.9f3129e4.js",
-    "index.html": "/Vigneshsethupathi/svs-house/index.html",
-    "main.7792c007.css.map": "/Vigneshsethupathi/svs-house/static/css/main.7792c007.css.map",
-    "main.9f3129e4.js.map": "/Vigneshsethupathi/svs-house/static/js/main.9f3129e4.js.map"
+    "main.css": "/svs-house/static/css/main.7792c007.css",
+    "main.js": "/svs-house/static/js/main.a7ddaa94.js",
+    "index.html": "/svs-house/index.html",
+    "main.7792c007.css.map": "/svs-house/static/css/main.7792c007.css.map",
+    "main.a7ddaa94.js.map": "/svs-house/static/js/main.a7ddaa94.js.map"
   },
   "entrypoints": [
     "static/css/main.7792c007.css",
-    "static/js/main.9f3129e4.js"
+    "static/js/main.a7ddaa94.js"
   ]
 }
