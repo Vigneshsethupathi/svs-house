@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/svs-house/static/css/main.e98c622e.css",
-    "main.js": "/svs-house/static/js/main.d7bf802c.js",
+    "main.js": "/svs-house/static/js/main.f7c3993a.js",
     "index.html": "/svs-house/index.html",
     "main.e98c622e.css.map": "/svs-house/static/css/main.e98c622e.css.map",
-    "main.d7bf802c.js.map": "/svs-house/static/js/main.d7bf802c.js.map"
+    "main.f7c3993a.js.map": "/svs-house/static/js/main.f7c3993a.js.map"
   },
   "entrypoints": [
     "static/css/main.e98c622e.css",
-    "static/js/main.d7bf802c.js"
+    "static/js/main.f7c3993a.js"
   ]
 }
